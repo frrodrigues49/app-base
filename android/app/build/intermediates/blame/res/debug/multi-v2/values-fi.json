@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/fagner/Documentos/react-native/app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+            "outputFile": "/home/fagner/Documentos/react-native/controle-gastos/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
                     "source": "/home/fagner/.gradle/caches/transforms-2/files-2.1/2178c56b834728c1392a290f7695756d/res/values-fi/values-fi.xml",
